@@ -1,0 +1,6 @@
+{
+  "name": "LAMBORGHINI | Unleash the Impossible",
+  "description": "Ultra-premium flagship automotive experience featuring interactive 3D vehicle visualizer, supercar configurator, acoustic V10 sound engine, and aerodynamic telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
